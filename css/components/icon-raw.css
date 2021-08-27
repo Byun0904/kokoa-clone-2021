@@ -22,7 +22,7 @@
 
 .fa-comments,
 .icon-row__comments {
-  margin-left: -428px;
+  margin-left: -530px;
 }
 
 .hdd-point {
@@ -31,6 +31,6 @@
   height: 6px;
   border-radius: 50%;
   background-color: tomato;
-  right: 195px;
+  right: 230px;
   bottom: 60px;
 }
